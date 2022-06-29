@@ -3,4 +3,6 @@
 - English: Hello
 - Korean: 안녕
 - Spanish: Hola
-- Chinese: Ni hao
+- Chineose: Ni hao
+- German: Guten Tag
+
